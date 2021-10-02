@@ -6,3 +6,7 @@ Future Fibres is hiring a front end JavaScript developer to build interactive da
 ![alt text](https://github.com/alexguja/synapse-react-dashboard/blob/main/demo.png)
 
 [Live Demo](https://synapse-dashboard-5a8fa.web.app/)
+
+To view the dashboard, use the following credentials
+email: alexandru.guja@elitech.dev
+password: 123456
